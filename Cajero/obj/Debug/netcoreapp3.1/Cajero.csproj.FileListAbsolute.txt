@@ -1,0 +1,13 @@
+C:\Users\gerardo-pc\source\repos\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.exe
+C:\Users\gerardo-pc\source\repos\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.deps.json
+C:\Users\gerardo-pc\source\repos\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.runtimeconfig.json
+C:\Users\gerardo-pc\source\repos\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.runtimeconfig.dev.json
+C:\Users\gerardo-pc\source\repos\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.dll
+C:\Users\gerardo-pc\source\repos\Cajero\Cajero\bin\Debug\netcoreapp3.1\Cajero.pdb
+C:\Users\gerardo-pc\source\repos\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.csprojAssemblyReference.cache
+C:\Users\gerardo-pc\source\repos\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.AssemblyInfoInputs.cache
+C:\Users\gerardo-pc\source\repos\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.AssemblyInfo.cs
+C:\Users\gerardo-pc\source\repos\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.csproj.CoreCompileInputs.cache
+C:\Users\gerardo-pc\source\repos\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.dll
+C:\Users\gerardo-pc\source\repos\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.pdb
+C:\Users\gerardo-pc\source\repos\Cajero\Cajero\obj\Debug\netcoreapp3.1\Cajero.genruntimeconfig.cache
